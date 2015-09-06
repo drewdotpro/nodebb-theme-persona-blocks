@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-persona-blocks",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "All of the Persona, with big block categories",
   "main": "theme.less",
   "scripts": {
