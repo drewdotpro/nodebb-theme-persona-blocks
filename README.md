@@ -1,4 +1,4 @@
-Lavender Theme for NodeBB
+Persona Blocks
 =========================
 
 All of the Persona, with big block categories and extra SSO only login options
