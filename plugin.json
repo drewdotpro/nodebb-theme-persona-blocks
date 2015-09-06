@@ -1,0 +1,5 @@
+{
+  "id": "nodebb-theme-persona-blocks",
+  "library": "lib/nodebb-theme-persona-blocks.js",
+  "languages": "languages"
+}

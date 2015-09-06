@@ -1,0 +1,8 @@
+{
+  "id": "nodebb-theme-persona-blocks",
+  "name": "Persona Blocks",
+  "description": "All of the Persona, with big block categories",
+  "url": "https://github.com/drewdotpro/nodebb-theme-persona-blocks",
+  "screenshot": "screenshot.png",
+  "baseTheme": "nodebb-theme-persona"
+}
