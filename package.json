@@ -1,7 +1,7 @@
 {
   "name": "nodebb-theme-persona-blocks",
   "version": "0.1.1",
-  "description": "All of the Persona, with big block categories",
+  "description": "All of the Persona, with big block categories and extra SSO only login options",
   "main": "theme.less",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
